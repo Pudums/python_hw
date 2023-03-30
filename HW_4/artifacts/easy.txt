@@ -1,0 +1,3 @@
+non parallel, 100 fibonacci numbers 100000: 8.942492897999955s
+16 threads , 100 fibonacci numbers 100000: 9.30930947600018s
+16 processes, 100 fibonacci numbers 100000: 2.2806906010000603s

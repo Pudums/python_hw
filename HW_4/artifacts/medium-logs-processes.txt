@@ -1,0 +1,304 @@
+integrating with threads with n_jobs=1
+starting integrate function cos from 0.0 to 1.5707963267948966
+finished integrate function cos from 0.0 to 1.5707963267948966
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=2
+starting integrate function cos from 0.0 to 0.7853981633974483
+starting integrate function cos from 0.7853981633974483 to 1.5707963267948966
+finished integrate function cos from 0.0 to 0.7853981633974483
+finished integrate function cos from 0.7853981633974483 to 1.5707963267948966
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=3
+starting integrate function cos from 0.0 to 0.5235987755982988
+starting integrate function cos from 0.5235987755982988 to 1.0471975511965976
+starting integrate function cos from 1.0471975511965976 to 1.5707963267948966
+finished integrate function cos from 0.0 to 0.5235987755982988
+finished integrate function cos from 0.5235987755982988 to 1.0471975511965976
+finished integrate function cos from 1.0471975511965976 to 1.5707963267948966
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=4
+starting integrate function cos from 0.0 to 0.39269908169872414
+starting integrate function cos from 0.39269908169872414 to 0.7853981633974483
+starting integrate function cos from 0.7853981633974483 to 1.1780972450961724
+starting integrate function cos from 1.1780972450961724 to 1.5707963267948966
+finished integrate function cos from 0.39269908169872414 to 0.7853981633974483
+finished integrate function cos from 0.0 to 0.39269908169872414
+finished integrate function cos from 1.1780972450961724 to 1.5707963267948966
+finished integrate function cos from 0.7853981633974483 to 1.1780972450961724
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=5
+starting integrate function cos from 0.0 to 0.3141592653589793
+starting integrate function cos from 0.3141592653589793 to 0.6283185307179586
+starting integrate function cos from 0.6283185307179586 to 0.9424777960769379
+starting integrate function cos from 0.9424777960769379 to 1.2566370614359172
+starting integrate function cos from 1.2566370614359172 to 1.5707963267948966
+finished integrate function cos from 0.0 to 0.3141592653589793
+finished integrate function cos from 0.6283185307179586 to 0.9424777960769379
+finished integrate function cos from 1.2566370614359172 to 1.5707963267948966
+finished integrate function cos from 0.3141592653589793 to 0.6283185307179586
+finished integrate function cos from 0.9424777960769379 to 1.2566370614359172
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=6
+starting integrate function cos from 0.0 to 0.2617993877991494
+starting integrate function cos from 0.2617993877991494 to 0.5235987755982988
+starting integrate function cos from 0.5235987755982988 to 0.7853981633974483
+starting integrate function cos from 0.7853981633974483 to 1.0471975511965976
+starting integrate function cos from 1.0471975511965976 to 1.308996938995747
+starting integrate function cos from 1.308996938995747 to 1.5707963267948966
+finished integrate function cos from 0.5235987755982988 to 0.7853981633974483
+finished integrate function cos from 0.0 to 0.2617993877991494
+finished integrate function cos from 0.2617993877991494 to 0.5235987755982988
+finished integrate function cos from 1.0471975511965976 to 1.308996938995747
+finished integrate function cos from 1.308996938995747 to 1.5707963267948966
+finished integrate function cos from 0.7853981633974483 to 1.0471975511965976
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=7
+starting integrate function cos from 0.0 to 0.2243994752564138
+starting integrate function cos from 0.2243994752564138 to 0.4487989505128276
+starting integrate function cos from 0.4487989505128276 to 0.6731984257692414
+starting integrate function cos from 0.6731984257692414 to 0.8975979010256552
+starting integrate function cos from 0.8975979010256552 to 1.121997376282069
+starting integrate function cos from 1.121997376282069 to 1.3463968515384828
+starting integrate function cos from 1.3463968515384828 to 1.5707963267948966
+finished integrate function cos from 0.4487989505128276 to 0.6731984257692414
+finished integrate function cos from 0.0 to 0.2243994752564138
+finished integrate function cos from 1.121997376282069 to 1.3463968515384828
+finished integrate function cos from 0.2243994752564138 to 0.4487989505128276
+finished integrate function cos from 0.6731984257692414 to 0.8975979010256552
+finished integrate function cos from 1.3463968515384828 to 1.5707963267948966
+finished integrate function cos from 0.8975979010256552 to 1.121997376282069
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=8
+starting integrate function cos from 0.0 to 0.19634954084936207
+starting integrate function cos from 0.19634954084936207 to 0.39269908169872414
+starting integrate function cos from 0.39269908169872414 to 0.5890486225480862
+starting integrate function cos from 0.5890486225480862 to 0.7853981633974483
+starting integrate function cos from 0.7853981633974483 to 0.9817477042468103
+starting integrate function cos from 0.9817477042468103 to 1.1780972450961724
+starting integrate function cos from 1.1780972450961724 to 1.3744467859455345
+starting integrate function cos from 1.3744467859455345 to 1.5707963267948966
+finished integrate function cos from 0.19634954084936207 to 0.39269908169872414
+finished integrate function cos from 0.39269908169872414 to 0.5890486225480862
+finished integrate function cos from 0.0 to 0.19634954084936207
+finished integrate function cos from 0.5890486225480862 to 0.7853981633974483
+finished integrate function cos from 1.3744467859455345 to 1.5707963267948966
+finished integrate function cos from 0.7853981633974483 to 0.9817477042468103
+finished integrate function cos from 1.1780972450961724 to 1.3744467859455345
+finished integrate function cos from 0.9817477042468103 to 1.1780972450961724
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=9
+starting integrate function cos from 0.0 to 0.17453292519943295
+starting integrate function cos from 0.17453292519943295 to 0.3490658503988659
+starting integrate function cos from 0.3490658503988659 to 0.5235987755982988
+starting integrate function cos from 0.5235987755982988 to 0.6981317007977318
+starting integrate function cos from 0.6981317007977318 to 0.8726646259971648
+starting integrate function cos from 0.8726646259971648 to 1.0471975511965976
+starting integrate function cos from 1.0471975511965976 to 1.2217304763960306
+starting integrate function cos from 1.2217304763960306 to 1.3962634015954636
+starting integrate function cos from 1.3962634015954636 to 1.5707963267948966
+finished integrate function cos from 0.0 to 0.17453292519943295
+finished integrate function cos from 0.5235987755982988 to 0.6981317007977318
+finished integrate function cos from 0.6981317007977318 to 0.8726646259971648
+finished integrate function cos from 0.17453292519943295 to 0.3490658503988659
+finished integrate function cos from 1.2217304763960306 to 1.3962634015954636
+finished integrate function cos from 0.3490658503988659 to 0.5235987755982988
+finished integrate function cos from 0.8726646259971648 to 1.0471975511965976
+finished integrate function cos from 1.3962634015954636 to 1.5707963267948966
+finished integrate function cos from 1.0471975511965976 to 1.2217304763960306
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=10
+starting integrate function cos from 0.0 to 0.15707963267948966
+starting integrate function cos from 0.15707963267948966 to 0.3141592653589793
+starting integrate function cos from 0.3141592653589793 to 0.47123889803846897
+starting integrate function cos from 0.47123889803846897 to 0.6283185307179586
+starting integrate function cos from 0.6283185307179586 to 0.7853981633974483
+starting integrate function cos from 0.7853981633974483 to 0.9424777960769379
+starting integrate function cos from 0.9424777960769379 to 1.0995574287564276
+starting integrate function cos from 1.0995574287564276 to 1.2566370614359172
+starting integrate function cos from 1.2566370614359172 to 1.413716694115407
+starting integrate function cos from 1.413716694115407 to 1.5707963267948966
+finished integrate function cos from 1.0995574287564276 to 1.2566370614359172
+finished integrate function cos from 0.15707963267948966 to 0.3141592653589793
+finished integrate function cos from 0.47123889803846897 to 0.6283185307179586
+finished integrate function cos from 0.9424777960769379 to 1.0995574287564276
+finished integrate function cos from 0.3141592653589793 to 0.47123889803846897
+finished integrate function cos from 1.2566370614359172 to 1.413716694115407
+finished integrate function cos from 0.6283185307179586 to 0.7853981633974483
+finished integrate function cos from 0.0 to 0.15707963267948966
+finished integrate function cos from 0.7853981633974483 to 0.9424777960769379
+finished integrate function cos from 1.413716694115407 to 1.5707963267948966
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=11
+starting integrate function cos from 0.0 to 0.14279966607226333
+starting integrate function cos from 0.14279966607226333 to 0.28559933214452665
+starting integrate function cos from 0.28559933214452665 to 0.42839899821678995
+starting integrate function cos from 0.42839899821678995 to 0.5711986642890533
+starting integrate function cos from 0.5711986642890533 to 0.7139983303613167
+starting integrate function cos from 0.7139983303613167 to 0.8567979964335799
+starting integrate function cos from 0.8567979964335799 to 0.9995976625058433
+starting integrate function cos from 0.9995976625058433 to 1.1423973285781066
+starting integrate function cos from 1.1423973285781066 to 1.2851969946503699
+starting integrate function cos from 1.2851969946503699 to 1.4279966607226333
+starting integrate function cos from 1.4279966607226333 to 1.5707963267948966
+finished integrate function cos from 0.5711986642890533 to 0.7139983303613167
+finished integrate function cos from 0.42839899821678995 to 0.5711986642890533
+finished integrate function cos from 0.8567979964335799 to 0.9995976625058433
+finished integrate function cos from 0.0 to 0.14279966607226333
+finished integrate function cos from 0.7139983303613167 to 0.8567979964335799
+finished integrate function cos from 0.28559933214452665 to 0.42839899821678995
+finished integrate function cos from 1.4279966607226333 to 1.5707963267948966
+finished integrate function cos from 1.2851969946503699 to 1.4279966607226333
+finished integrate function cos from 0.14279966607226333 to 0.28559933214452665
+finished integrate function cos from 0.9995976625058433 to 1.1423973285781066
+finished integrate function cos from 1.1423973285781066 to 1.2851969946503699
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=12
+starting integrate function cos from 0.0 to 0.1308996938995747
+starting integrate function cos from 0.1308996938995747 to 0.2617993877991494
+starting integrate function cos from 0.2617993877991494 to 0.39269908169872414
+starting integrate function cos from 0.39269908169872414 to 0.5235987755982988
+starting integrate function cos from 0.5235987755982988 to 0.6544984694978735
+starting integrate function cos from 0.6544984694978735 to 0.7853981633974483
+starting integrate function cos from 0.916297857297023 to 1.0471975511965976
+starting integrate function cos from 1.0471975511965976 to 1.1780972450961724
+starting integrate function cos from 1.1780972450961724 to 1.308996938995747
+starting integrate function cos from 1.308996938995747 to 1.4398966328953218
+starting integrate function cos from 1.4398966328953218 to 1.5707963267948966
+starting integrate function cos from 0.7853981633974483 to 0.916297857297023
+finished integrate function cos from 0.5235987755982988 to 0.6544984694978735
+finished integrate function cos from 0.1308996938995747 to 0.2617993877991494
+finished integrate function cos from 0.2617993877991494 to 0.39269908169872414
+finished integrate function cos from 0.6544984694978735 to 0.7853981633974483
+finished integrate function cos from 1.1780972450961724 to 1.308996938995747
+finished integrate function cos from 1.308996938995747 to 1.4398966328953218
+finished integrate function cos from 0.39269908169872414 to 0.5235987755982988
+finished integrate function cos from 0.7853981633974483 to 0.916297857297023
+finished integrate function cos from 0.916297857297023 to 1.0471975511965976
+finished integrate function cos from 0.0 to 0.1308996938995747
+finished integrate function cos from 1.0471975511965976 to 1.1780972450961724
+finished integrate function cos from 1.4398966328953218 to 1.5707963267948966
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=13
+starting integrate function cos from 0.0 to 0.1208304866765305
+starting integrate function cos from 0.1208304866765305 to 0.241660973353061
+starting integrate function cos from 0.241660973353061 to 0.3624914600295915
+starting integrate function cos from 0.3624914600295915 to 0.483321946706122
+starting integrate function cos from 0.483321946706122 to 0.6041524333826525
+starting integrate function cos from 0.6041524333826525 to 0.724982920059183
+starting integrate function cos from 0.724982920059183 to 0.8458134067357135
+starting integrate function cos from 0.8458134067357135 to 0.966643893412244
+starting integrate function cos from 0.966643893412244 to 1.0874743800887745
+starting integrate function cos from 1.0874743800887745 to 1.208304866765305
+starting integrate function cos from 1.208304866765305 to 1.3291353534418355
+starting integrate function cos from 1.3291353534418355 to 1.449965840118366
+starting integrate function cos from 1.449965840118366 to 1.5707963267948966
+finished integrate function cos from 0.1208304866765305 to 0.241660973353061
+finished integrate function cos from 0.8458134067357135 to 0.966643893412244
+finished integrate function cos from 0.966643893412244 to 1.0874743800887745
+finished integrate function cos from 1.0874743800887745 to 1.208304866765305
+finished integrate function cos from 0.0 to 0.1208304866765305
+finished integrate function cos from 0.483321946706122 to 0.6041524333826525
+finished integrate function cos from 0.6041524333826525 to 0.724982920059183
+finished integrate function cos from 0.3624914600295915 to 0.483321946706122
+finished integrate function cos from 0.724982920059183 to 0.8458134067357135
+finished integrate function cos from 0.241660973353061 to 0.3624914600295915
+finished integrate function cos from 1.3291353534418355 to 1.449965840118366
+finished integrate function cos from 1.208304866765305 to 1.3291353534418355
+finished integrate function cos from 1.449965840118366 to 1.5707963267948966
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=14
+starting integrate function cos from 0.0 to 0.1121997376282069
+starting integrate function cos from 0.1121997376282069 to 0.2243994752564138
+starting integrate function cos from 0.2243994752564138 to 0.3365992128846207
+starting integrate function cos from 0.3365992128846207 to 0.4487989505128276
+starting integrate function cos from 0.4487989505128276 to 0.5609986881410345
+starting integrate function cos from 0.5609986881410345 to 0.6731984257692414
+starting integrate function cos from 0.7853981633974483 to 0.8975979010256552
+starting integrate function cos from 0.8975979010256552 to 1.009797638653862
+starting integrate function cos from 1.009797638653862 to 1.121997376282069
+starting integrate function cos from 1.121997376282069 to 1.2341971139102759
+starting integrate function cos from 1.2341971139102759 to 1.3463968515384828
+starting integrate function cos from 1.3463968515384828 to 1.4585965891666897
+starting integrate function cos from 0.6731984257692414 to 0.7853981633974483
+starting integrate function cos from 1.4585965891666897 to 1.5707963267948966
+finished integrate function cos from 0.1121997376282069 to 0.2243994752564138
+finished integrate function cos from 0.4487989505128276 to 0.5609986881410345
+finished integrate function cos from 0.5609986881410345 to 0.6731984257692414
+finished integrate function cos from 0.8975979010256552 to 1.009797638653862
+finished integrate function cos from 0.2243994752564138 to 0.3365992128846207
+finished integrate function cos from 1.121997376282069 to 1.2341971139102759
+finished integrate function cos from 0.0 to 0.1121997376282069
+finished integrate function cos from 1.3463968515384828 to 1.4585965891666897
+finished integrate function cos from 0.6731984257692414 to 0.7853981633974483
+finished integrate function cos from 1.009797638653862 to 1.121997376282069
+finished integrate function cos from 1.4585965891666897 to 1.5707963267948966
+finished integrate function cos from 0.3365992128846207 to 0.4487989505128276
+finished integrate function cos from 0.7853981633974483 to 0.8975979010256552
+finished integrate function cos from 1.2341971139102759 to 1.3463968515384828
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=15
+starting integrate function cos from 0.0 to 0.10471975511965977
+starting integrate function cos from 0.10471975511965977 to 0.20943951023931953
+starting integrate function cos from 0.20943951023931953 to 0.3141592653589793
+starting integrate function cos from 0.3141592653589793 to 0.41887902047863906
+starting integrate function cos from 0.41887902047863906 to 0.5235987755982988
+starting integrate function cos from 0.5235987755982988 to 0.6283185307179586
+starting integrate function cos from 0.6283185307179586 to 0.7330382858376183
+starting integrate function cos from 0.7330382858376183 to 0.8377580409572781
+starting integrate function cos from 0.8377580409572781 to 0.9424777960769379
+starting integrate function cos from 0.9424777960769379 to 1.0471975511965976
+starting integrate function cos from 1.0471975511965976 to 1.1519173063162573
+starting integrate function cos from 1.1519173063162573 to 1.2566370614359172
+starting integrate function cos from 1.2566370614359172 to 1.361356816555577
+starting integrate function cos from 1.361356816555577 to 1.4660765716752366
+starting integrate function cos from 1.4660765716752366 to 1.5707963267948966
+finished integrate function cos from 0.20943951023931953 to 0.3141592653589793
+finished integrate function cos from 0.8377580409572781 to 0.9424777960769379
+finished integrate function cos from 0.6283185307179586 to 0.7330382858376183
+finished integrate function cos from 1.4660765716752366 to 1.5707963267948966
+finished integrate function cos from 0.3141592653589793 to 0.41887902047863906
+finished integrate function cos from 1.361356816555577 to 1.4660765716752366
+finished integrate function cos from 0.41887902047863906 to 0.5235987755982988
+finished integrate function cos from 0.0 to 0.10471975511965977
+finished integrate function cos from 1.0471975511965976 to 1.1519173063162573
+finished integrate function cos from 0.5235987755982988 to 0.6283185307179586
+finished integrate function cos from 1.1519173063162573 to 1.2566370614359172
+finished integrate function cos from 1.2566370614359172 to 1.361356816555577
+finished integrate function cos from 0.10471975511965977 to 0.20943951023931953
+finished integrate function cos from 0.7330382858376183 to 0.8377580409572781
+finished integrate function cos from 0.9424777960769379 to 1.0471975511965976
+----------------------------------------------------------------------------------------------------
+integrating with threads with n_jobs=16
+starting integrate function cos from 0.0 to 0.09817477042468103
+starting integrate function cos from 0.09817477042468103 to 0.19634954084936207
+starting integrate function cos from 0.19634954084936207 to 0.2945243112740431
+starting integrate function cos from 0.2945243112740431 to 0.39269908169872414
+starting integrate function cos from 0.39269908169872414 to 0.4908738521234052
+starting integrate function cos from 0.4908738521234052 to 0.5890486225480862
+starting integrate function cos from 0.5890486225480862 to 0.6872233929727672
+starting integrate function cos from 0.6872233929727672 to 0.7853981633974483
+starting integrate function cos from 0.7853981633974483 to 0.8835729338221293
+starting integrate function cos from 0.8835729338221293 to 0.9817477042468103
+starting integrate function cos from 0.9817477042468103 to 1.0799224746714913
+starting integrate function cos from 1.0799224746714913 to 1.1780972450961724
+starting integrate function cos from 1.1780972450961724 to 1.2762720155208536
+starting integrate function cos from 1.2762720155208536 to 1.3744467859455345
+starting integrate function cos from 1.3744467859455345 to 1.4726215563702154
+starting integrate function cos from 1.4726215563702154 to 1.5707963267948966
+finished integrate function cos from 0.39269908169872414 to 0.4908738521234052
+finished integrate function cos from 0.4908738521234052 to 0.5890486225480862
+finished integrate function cos from 1.2762720155208536 to 1.3744467859455345
+finished integrate function cos from 0.2945243112740431 to 0.39269908169872414
+finished integrate function cos from 0.0 to 0.09817477042468103
+finished integrate function cos from 0.8835729338221293 to 0.9817477042468103
+finished integrate function cos from 0.09817477042468103 to 0.19634954084936207
+finished integrate function cos from 1.3744467859455345 to 1.4726215563702154
+finished integrate function cos from 0.19634954084936207 to 0.2945243112740431
+finished integrate function cos from 0.6872233929727672 to 0.7853981633974483
+finished integrate function cos from 0.9817477042468103 to 1.0799224746714913
+finished integrate function cos from 1.1780972450961724 to 1.2762720155208536
+finished integrate function cos from 0.7853981633974483 to 0.8835729338221293
+finished integrate function cos from 0.5890486225480862 to 0.6872233929727672
+finished integrate function cos from 1.4726215563702154 to 1.5707963267948966
+finished integrate function cos from 1.0799224746714913 to 1.1780972450961724
+----------------------------------------------------------------------------------------------------
